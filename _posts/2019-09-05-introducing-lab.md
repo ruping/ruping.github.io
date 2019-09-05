@@ -3,7 +3,7 @@ layout: post
 title: Introducing Sun Lab
 ---
 
-<img style="float: right;" src="public/rupingsun.jpg">
+<img style="float: right;" width="800" src="public/wp_fig1.png">
 
 ### Research
 As a geneticist and computational biologist, my research is  and leverage patterns of ITH to infer the evolutionary dynamics of human cancers. 
