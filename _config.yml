@@ -6,7 +6,8 @@ permalink:           pretty
 # Setup
 title:               Sun Lab
 tagline:             'on genomic ITH'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Ruping Sun <br> Assistant Professor <br> Advanced Cancer Genomics and Bioinformatics <br> <a href="https://med.umn.edu/bio/lab-med-and-pathology-faculty/ruping-sun" target="_blank">Department of Laboratory Medicine and Pathology</a> <br> Member of <a href="https://www.cancer.umn.edu/" target="_blank"> Masonic Cancer Center </a> <br> University of Minnesota <br> <a href="http://twitter.com/Sun_Ruping" target="_blank">@Sun_Ruping</a> <br> <a href="https://scholar.google.de/citations?user=bRpxn-oAAAAJ&hl=en" target="_blank">Google Scholar</a> <br> ruping at umn dot edu <br>'
+
 url:                 http://ruping.github.io
 baseurl:             ''
 paginate:            5

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Introducing Lab
+title: Introducing Sun Lab
 ---
+
+<img style="float: right;" src="public/rupingsun.jpg">
 
 ### Research
 As a geneticist and computational biologist, my research is  and leverage patterns of ITH to infer the evolutionary dynamics of human cancers. 
