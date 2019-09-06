@@ -1,30 +1,22 @@
 ---
 layout: page
-title: About
+title: About the PI
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<img style="float: right;" src="../public/rupingsun.jpg">
 
-There are currently two themes built on Poole:
+Ruping Sun <br>
+Assistant Professor <br>
+Advanced Cancer Genomics and Bioinformatics <br>
+[Department of Laboratory Medicine and Pathology](https://med.umn.edu/bio/lab-med-and-pathology-faculty/ruping-sun) <br>
+Member of [Masonic Comprehensive Cancer Center](https://www.cancer.umn.edu/) <br>
+University of Minnesota Twin Cities
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+[@Sun_Ruping](http://twitter.com/Sun_Ruping) ---
+[Google Scholar](https://scholar.google.de/citations?user=bRpxn-oAAAAJ&hl=en) ---
+[Personal Blog](http://ruping.info)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+ruping at umn dot edu *
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+During my research tenure, I have developed considerable expertise in algorithm design and statistical analysis of (epi)genetic data, as well as in the computational modelling of cancer, such as gene regulatory circuits and cellular automata models. My unique experiences and quantitative training have enabled me to conduct impactful research at the interface of cancer genomics, computational and systems biology. My goal is to continue to develop algorithms and computational methods that advance a mechanistic understanding of tumor evolution and that are accessible and broadly utilized by the cancer biology community. Before joining UMN, I was an Instructor in `Stanford Cancer Institute (Curtis lab)`. From 2013-2015, I was a postdoc in the `Califano Lab in the Department of Systems Biology` at Columbia University. From 2009-2013, I was a Research Fellow in the `Vingron Department in Computational Molecular Biology` at the Max Planck Institute for Molecular Genetics in Berlin. I completed a Ph.D. in Genetics (2009) at `Fudan University` in Shanghai.
