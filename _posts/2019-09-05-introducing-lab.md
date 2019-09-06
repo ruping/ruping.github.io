@@ -6,24 +6,11 @@ title: Introducing Sun Lab
 <img style="float: right;" width="800" src="public/wp_fig1.png">
 
 ### Research
-As a geneticist and computational biologist, my research is  and leverage patterns of ITH to infer the evolutionary dynamics of human cancers. 
-
-The Sun Lab innovate computational algorithms in quantifying, decomposing and modeling Genomic Tumor Heterogeneity.
-The Heterogeneity can be measured between spatially and/or longitudinally collected tumor samples, across the full
-spectrum of somatic alterations at genetic level (Copy Number, Structural and small variants) using DNA-seq and
-epigenetic level using RNA-seq and ATAC-seq technologies.
-Our aim is to translate Heterogeneity measures into biologically and evolutionary meaningful parameters,
-and to establish reliable connections between these measures and tumor aggressiveness. 
+The Sun lab innovates computational algorithms to improve the quantification of intra tumor heterogeneity (ITH) from next generation sequencing (NGS) data, and leverages patterns of ITH to statistically infer the evolutionary dynamics of human cancers. ITH can be measured between spatially and/or longitudinally collected tumor samples, at both genetic level (copy number, structural and small variants) from DNA-seq and epigenetic level from RNA-seq or ATAC-seq datasets. Our aim is to translate ITH measures into biologically meaningful parameters, and to establish reliable connections between these measures and tumor aggressiveness. 
 
 * High resolution and fidelity in measuring (epi)genetic variation is the foundation of precision cancer genomics.
-  Bioinformatic innovations to improve the detection and quantification of intra tumor heterogeneity (ITH) from next generation sequencing (NGS) data,
   [VAP](https://combine-lab.github.io/VAP/)
-* Modelling 
-* We develop, support, and maintain the
-  [DESeq2](http://bioconductor.org/packages/DESeq2) package
-  for statistical analysis of RNA-seq and other sequencing experiments,
-  and associated packages and workflows for analyzing genomics
-  data. See the [Software](pages/software.html) tab for more details.
+* Modelling ITH. See the [Software](pages/software.html) tab for more details.
 
 ### PI - Background
 
