@@ -9,6 +9,6 @@ title: Decomposing Intra Tumor Heterogeneity
 The Sun lab innovates computational algorithms to quantify and model intra tumor heterogeneity (ITH) from next generation sequencing (NGS) data, and leverages patterns of ITH to statistically infer the dynamics of cancer. 
 
 * `Quantifying ITH`: ITH is measured from spatially and/or longitudinally collected tumor samples, at both genomic level (copy number, structural and small variants) using DNA-seq and epigenetic level using RNA-seq or ATAC-seq datasets. We develop statistical methods to achieve a bias-aware, high fidelity quantification of (epi)genomic ITH from these data. <!-- Example: [VAP](https://combine-lab.github.io/VAP/) -->
-* `Modelling ITH`: We use mathematical and computational models to interpret the observed ITH from patient data. Concepts from population genetics and regulatory genomics are frequently incorperated into our models. Our aim is to translate ITH measures into biologically meaningful parameters, and to establish reliable connections between these measures and tumor aggressiveness.
+* `Modelling ITH`: We use mathematical and computational models to interpret the observed ITH from patient data. Concepts from population genetics and regulatory genomics are frequently incorperated into our models. By learning patient specific model parameters from ITH, we increase ITH's explanatory value and predictive power for tumor aggressiveness.
 
 
