@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decomposing Intra Tumor Heterogeneity
+title: Translating Intra Tumor Heterogeneity
 ---
 
 <img style="float: right;" width="800" src="public/wp_fig1.png">
