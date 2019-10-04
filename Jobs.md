@@ -34,5 +34,5 @@ We welcome students and interns. Join us if
 * you want to cross disciplines to increase your scientific skills.
 
 ```
-Folks interested to work in the group directly email Ruping Sun (`ruping at umn dot edu`).
+Folks interested to work in the group directly email Ruping Sun (ruping at umn dot edu).
 ```
