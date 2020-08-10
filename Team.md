@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-<img style="float: center;" width="700" src="../public/team.png">
+<img style="float: center;" width="600" src="../public/team.png">
 
 
 | Name | Research topic | Photo |
