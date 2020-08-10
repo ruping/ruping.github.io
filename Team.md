@@ -3,13 +3,6 @@ layout: page
 title: Team
 ---
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 <img class="center" width="560" src="../public/team.png">
 
 | Name | Research topic | Photo |
