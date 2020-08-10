@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-<img width="600" src="../public/team.png">
+<img class="center" width="580" src="../public/team.png">
 
 
 | Name | Research topic | Photo |
