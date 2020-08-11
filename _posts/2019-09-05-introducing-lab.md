@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling the Sense of ITH
+title: Computational Genomics in Tumor Heterogeneity
 ---
 
 <img style="float: right;" width="800" src="public/wp_fig1.png">
