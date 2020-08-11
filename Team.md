@@ -3,7 +3,9 @@ layout: page
 title: Team
 ---
 
+<center>
 <img class="center" width="560" src="../public/team.png">
+</center>
 
 | Name | Research topic | Photo |
 | :--- | :---- | :---- |
