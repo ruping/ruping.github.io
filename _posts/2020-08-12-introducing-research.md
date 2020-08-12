@@ -3,7 +3,7 @@ layout: post
 title: Computational Genomics in Tumor Heterogeneity
 ---
 
-We innovate computational algorithms to quantify and model tumor heterogeneity (TH) from next generation sequencing (NGS) data, and leverages patterns of TH to statistically infer the kinetics of cancer.
+We innovate computational algorithms to quantify and model tumor heterogeneity (TH) from next generation sequencing (NGS) data, and leverage patterns of TH to statistically infer the kinetics of cancer.
 
 <div style="float:left; border:solid 1px gray; margin:10px;"><img src="../public/clonal_dynamics.png" width="230"></div>
 
