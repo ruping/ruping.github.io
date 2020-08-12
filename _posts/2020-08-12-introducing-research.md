@@ -12,7 +12,6 @@ We innovate computational algorithms to quantify and model tumor heterogeneity (
 
 ---
 
-
 [//]: # <div style="float:none;clear:both;"></div>
 [//]: # ![cd](../public/clonal_dynamics.png# thumbnail bordered){: style="float:left; padding:1px"}
 
