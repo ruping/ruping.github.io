@@ -72,7 +72,7 @@ Selected Articles
 
 {:.paper}
 <span>CD74-NRG1 fusions in lung adenocarcinoma</span>{:.papertitle}  
-<span>ernandez-Cuesta, Lynnette and Plenker, Dennis and Osada, Hirotaka and Sun, Ruping and Menon, Roopika and Leenders, Frauke and Ortiz-Cuaran, Sandra and Peifer, Martin and Bos, Marc and et. al. and Haas, Stefan A. and Yatabe, Yasushi and Thomas, Roman K.</span>{:.authors}  
+<span>L. Fernandez-Cuesta, D. Plenker, H. Osada, **R. Sun**, R. Menon, F. Leenders, S. Ortiz-Cuaran, M. Peifer, M. Bos, et. al., and R.K. Thomas</span>{:.authors}  
 <span>_Cancer Discovery_, vol. 4, pp. 415--422, Jan. 2014</span>{:.journal}  
 <span>**DOI:** [10.1158/2159-8290.CD-13-0633](https://dx.doi.org/10.1158/2159-8290.CD-13-0633)</span>{:.doi}
 
@@ -90,7 +90,7 @@ Selected Articles
 
 {:.paper}
 <span>Simultaneously detection of genomic and expression alterations in prostate cancer using cDNA microarray.</span>{:.papertitle}  
-<span>M. Jiang, M. Li, X. Fu, Y. Huang, H. Qian, R. Sun, Y. Mao, Y. Xie, and Y. Li</span>{:.authors}  
+<span>M. Jiang, M. Li, X. Fu, Y. Huang, H. Qian, **R. Sun**, Y. Mao, Y. Xie, and Y. Li</span>{:.authors}  
 <span>_The Prostate_, vol. 68, no. 14, pp. 1496--1509, Oct. 2008</span>{:.journal}  
 <span>**DOI:** [doi: 10.1002/pros.20756](https://dx.doi.org/doi: 10.1002/pros.20756)</span>{:.doi}  
 
