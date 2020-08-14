@@ -14,8 +14,7 @@ Member of [Masonic Comprehensive Cancer Center](https://www.cancer.umn.edu/) <br
 University of Minnesota Twin Cities
 
 [@Sun_Ruping](http://twitter.com/Sun_Ruping) ---
-[Google Scholar](https://scholar.google.de/citations?user=bRpxn-oAAAAJ&hl=en) ---
-[//]: # [Personal Blog](http://ruping.info)
+[Google Scholar](https://scholar.google.de/citations?user=bRpxn-oAAAAJ&hl=en) 
 
 ruping at umn dot edu *
 
