@@ -9,6 +9,12 @@ title: Scholarly Work
 ### Tumor Clonal Dynamics
 
 {:.paper}
+<span>Elements and Evolutionary Determinants of Genomic Divergence Between Paired Primary and Metastatic Tumors</span>{:.papertitle}  
+<span>**R. Sun** and **A.N. Nikolakopoulos**</span>{:.authors}
+<span>_bioRxiv_, 2020.08.24.262378,, Aug. 2020</span>{:.journal}  
+☕<span>**DOI:** [10.1101/2020.08.24.262378](https://doi.org/10.1101/2020.08.24.262378)</span>{:.doi}
+
+{:.paper}
 <span>Characterizing the ecological and evolutionary dynamics of cancer</span>{:.papertitle}  
 <span>N. Zahir, **R. Sun**, D. Gallahan, R.A. Gatenby, and C. Curtis</span>{:.authors}  
 <span>_Nature Genetics_, vol. 52, no. 8, pp. 759--767, Jul. 2020</span>{:.journal}  
