@@ -11,7 +11,7 @@ title: Scholarly Work
 {:.paper}
 <span>Elements and Evolutionary Determinants of Genomic Divergence Between Paired Primary and Metastatic Tumors</span>{:.papertitle}  
 <span>**R. Sun** and **A.N. Nikolakopoulos**</span>{:.authors}<br>
-<span>_bioRxiv_, 2020.08.24.262378,, Aug. 2020</span>{:.journal}  
+<span>_PLOS Computational Biology_, in press</span>{:.journal}  
 ☕<span>**DOI:** [10.1101/2020.08.24.262378](https://doi.org/10.1101/2020.08.24.262378)</span>{:.doi}
 
 {:.paper}
